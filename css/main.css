@@ -1,0 +1,54 @@
+	
+	html, body {
+		background-color: #111111 !important;
+		color: black !important;
+		font-family: Calibri, Verdana;
+		height: 100%;
+		width: 100%;
+		padding: 0px;
+		margin: 0px;
+	
+	
+	}
+	
+	
+	
+	#map {
+		height: 100%;
+	}
+	
+	.logo { 
+		width: 45px;
+		height: 45px;
+	}
+	
+	.header {
+		background-color: #111111 !important;
+		margin-bottom: 20px;
+	}
+	.title {
+	text-align: center; font-size: 40px; font-family: 'Lobster', cursive; color: #EFEFEF;
+	}
+	
+	.btn-primary {
+		background-color: rgb(255, 98, 0) !important;
+		border-style: none !important;
+		font-size: 18px !important;
+
+	}
+	
+	.leaflet-popup-content { width: 300px !important; }
+	
+	.go {
+	text-align: center;
+	margin-bottom: 15px;
+	}
+
+	.gobutton {
+		width: 100%;
+		background-color: #5EA9DD;
+		border-color: #66B8FF;
+	}
+	
+	.avatar { margin-right: 20px; float: left }
+	.popup { display: flex; }
