@@ -3,9 +3,9 @@ An Esri and SoundCloud API intergration; SoundCloud Mapper. Here the user types 
 
 #Libraries
 
-*esri-leaflet
-*Bootstrap
-*jQuery
+-esri-leaflet
+-Bootstrap
+-jQuery
 
 #Screenshot
 ![Esri SoundCloud Screenshot](https://raw.githubusercontent.com/JamesMilnerUK/esri-soundcloud/master/screenshot.png)
