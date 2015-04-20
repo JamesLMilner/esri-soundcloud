@@ -1,4 +1,4 @@
-# esri-soundcloud
+# SoundCloud Mapper
 An Esri and SoundCloud API intergration; SoundCloud Mapper. Here the user types in a genre of music and it will place the sound onto the presented map.
 
 
