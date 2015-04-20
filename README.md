@@ -4,7 +4,7 @@ An Esri and SoundCloud API intergration; SoundCloud Mapper. Here the user types 
 
 
 #Screenshot
-![Esri SoundCloud Screenshot]()
+![Esri SoundCloud Screenshot](https://raw.githubusercontent.com/JamesMilnerUK/esri-soundcloud/master/screenshot.png)
 
 #Issues
 Find a bug or want to request a new feature? Please let us know by submitting an issue. Thank you!
