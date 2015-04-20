@@ -1,7 +1,11 @@
 # SoundCloud Mapper
 An Esri and SoundCloud API intergration; SoundCloud Mapper. Here the user types in a genre of music and it will place the sound onto the presented map.
 
+#Libraries
 
+*esri-leaflet
+*Bootstrap
+*jQuery
 
 #Screenshot
 ![Esri SoundCloud Screenshot](https://raw.githubusercontent.com/JamesMilnerUK/esri-soundcloud/master/screenshot.png)
